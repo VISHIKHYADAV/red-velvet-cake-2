@@ -1,26 +1,3 @@
-# red-velvet-cake
-hi
-TODAY WE ARE GOING TO MAKE DELICIOUS RED VELVET CAKE USING THIS AMAZING RECIPIE-
-
-3 cups (380g) cake flour (spoon & leveled)
-1 teaspoon baking soda
-2 Tablespoons (10g) unsweetened natural cocoa powder
-1/2 teaspoon salt
-1/2 cup (115g) unsalted butter, softened to room temperature
-2 cups (400g) granulated sugar
-1 cup (240ml) canola or vegetable oil
-4 large eggs, room temperature and separated
-1 Tablespoon pure vanilla extract
-1 teaspoon distilled white vinegar
-liquid or gel red food coloring
-1 cup (240ml) buttermilk, at room temperature
-Cream Cheese Frosting
-16 ounces (450g) full-fat block cream cheese, softened to room temperature
-3/4 cup (170g) unsalted butter, softened to room temperature
-5 and 1/2 cups (660g) confectioners’ sugar
-1 and 1/2 teaspoons pure vanilla extract
-pinch of salt, to taste
-
 Preheat oven to 350°F (177°C). Grease two 9-inch cake pans, line with parchment paper, then grease the parchment paper. Parchment paper helps the cakes seamlessly release from the pans.
 Make the cake: Whisk the flour, baking soda, cocoa powder, and salt together in a large bowl. Set aside.
 Using a handheld or stand mixer fitted with a paddle attachment, beat the butter and sugar together on medium-high speed until combined, about 1 minute. Scrape down the sides and up the bottom of the bowl with a rubber spatula as needed. Add the oil, egg yolks, vanilla extract, and vinegar and beat on high for 2 minutes. (Set the egg whites aside.) Scrape down the sides and up the bottom of the bowl with a rubber spatula as needed.
@@ -41,4 +18,3 @@ Sheet Cake: This batter fits nicely into a 9×13 inch cake pan or 12×17 inch sh
 3 Layer Cake: Divide the batter between 3 9-inch cake pans. Bake for about 22-25 minutes.
 Bundt Cake: This cake batter fits into a 10-cup or larger bundt pan. I’m unsure of the exact bake time (likely around an hour), but use a toothpick to test for doneness. Same oven temperature.
 Cupcakes: You can use this cake batter for 2-3 dozen cupcakes. Fill cupcake liners 1/2 – 2/3 of the way full. Bake for 20-21 minutes or until the tops of the cupcakes spring back when gently touched and a toothpick inserted in the center comes out clean. Use my red velvet cupcakes recipe if you need fewer.
-
